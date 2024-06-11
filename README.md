@@ -36,6 +36,16 @@ Developing a new class of insecticides takes 12-15 years and costs over $250 mil
 
 ### Methodology
 
+<img width="1037" alt="Screenshot 2024-06-12 at 00 07 10" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/aeeaffce-55d2-4b91-a720-e12ca0674d06">
+<img width="1036" alt="Screenshot 2024-06-12 at 00 07 40" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/7f3b1588-bb0d-4ba2-a37d-c63eca8f5984">
+<img width="1038" alt="Screenshot 2024-06-12 at 00 08 05" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/25587d42-f223-436a-b265-aea092ddff44">
+<img width="1039" alt="Screenshot 2024-06-12 at 00 08 20" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/3d1f4f40-931a-4ac0-a360-fb3efb3a3f37">
+<img width="1039" alt="Screenshot 2024-06-12 at 00 08 37" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/a53f9cd6-a2cf-4366-852c-02343780bc2c">
+<img width="1038" alt="Screenshot 2024-06-12 at 00 08 53" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/a8d751e9-51d3-410f-89a0-9e4039d99eba">
+<img width="1038" alt="Screenshot 2024-06-12 at 00 09 10" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/c00279ac-ae71-4f26-82dc-9791eaba652a">
+<img width="1039" alt="Screenshot 2024-06-12 at 00 09 25" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/4aa0a829-b3a5-4022-8b11-ee273c8a2cd7">
+<img width="1035" alt="Screenshot 2024-06-12 at 00 09 46" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/76000af7-d4c1-4cf6-84a1-9e347f783c24">
+<img width="1036" alt="Screenshot 2024-06-12 at 00 10 06" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/7ae61d27-7ce2-4206-bdae-c025dbb12cbf">
 
 ### Dashboard
 
