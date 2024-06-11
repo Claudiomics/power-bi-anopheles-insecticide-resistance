@@ -4,26 +4,26 @@ This project showcases my skills in Power BI, which were developed by Peregrine'
 
 [Mosquito Insecticide Resistance Management copy.pdf](https://github.com/user-attachments/files/15795295/Mosquito.Insecticide.Resistance.Management.copy.pdf)
 
-##Table of Contents
+## Table of Contents
 [Introduction](#introduction)
 [Project Aim](project-aim)
 [Problem Statement](problem-statement)
 
-[This is the link text](#heading-title)
 
-###Introduction 
+
+### Introduction 
 
 This is a presentation of my open-source data project, for which I used Power BI to create a dashboard on mosquito insecticide resistance.
 
 <img width="1043" alt="Screenshot 2024-06-11 at 23 31 44" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/1b25e901-10ef-4a8f-95b6-761cd22b12f5">
 
-###Project Aim
+### Project Aim
 
 To guide me through each phase of the data analysis process, I used the OSEMN framework, which stands for Obtain, Scrub, Explore, Model, and Interpret. By following these steps, I framed a definitive set of questions, which guided the information I would include on the dashboard to be able to extract meaningful insights. 
 
 <img width="1037" alt="Screenshot 2024-06-11 at 23 40 00" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/e74bd6f2-35f0-4a25-add1-70ede254aef3">
 
-###Problem Statement
+### Problem Statement
 
 Malaria and other vector-borne diseases account for more than 17% of all infectious diseases and kill on average 400 thousand people every year.
 
