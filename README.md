@@ -6,8 +6,11 @@ This project showcases my skills in Power BI, which were developed by Peregrine'
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Project Aim](project-aim)
-3. [Problem Statement](problem-statement)
+2. [Project Aim](#project-aim)
+3. [Problem Statement](#problem-statement)
+4. [Methodology](#methodology)
+5. [Dashboard](#dashboard)
+6. [Conclusion and Future Improvements](conclusion-and-future-improvements)
 
 ### Introduction 
 
@@ -30,5 +33,12 @@ Currently, the two main methods for vector control are indoor residual house spr
 Developing a new class of insecticides takes 12-15 years and costs over $250 million dollars. Therefore, it is critical to build localised resistance profiles for specific areas and propose tailored plans to tackle the spread of resistance using the current insecticides we have available.
 
 <img width="1041" alt="Screenshot 2024-06-11 at 23 40 14" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/95720e92-20a5-4853-80b2-f2b387982387">
+
+### Methodology
+
+
+### Dashboard
+
+### Conclusion and Future Improvements
 
 
