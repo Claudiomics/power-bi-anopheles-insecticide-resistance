@@ -5,11 +5,9 @@ This project showcases my skills in Power BI, which were developed by Peregrine'
 [Mosquito Insecticide Resistance Management copy.pdf](https://github.com/user-attachments/files/15795295/Mosquito.Insecticide.Resistance.Management.copy.pdf)
 
 ## Table of Contents
-[Introduction](#introduction)
-[Project Aim](project-aim)
-[Problem Statement](problem-statement)
-
-
+1. [Introduction](#introduction)
+2. [Project Aim](project-aim)
+3. [Problem Statement](problem-statement)
 
 ### Introduction 
 
