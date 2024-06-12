@@ -1,7 +1,8 @@
 # Power BI: Managing Global _Aopheles_ Insecticide Resistance
 
-This project showcases my skills in Power BI, which were developed by Peregrine's training programme. Since I'm on a mac, I needed to use a MS Azure VM to run PowerBI on. Here is the link to the .pdf file of my powerpoint presentation:
+This project showcases my skills in Power BI, which were developed in Peregrine's training programme. Please use the table of contents to navigate through the different stages, like seeing my OSEMN process in **Methodology** or just to look at the walkthrough of the **Dashboard**. Since I'm on a mac, I needed to use a MS Azure VM to run Power BI on. 
 
+Here is the link to the .pdf file of my powerpoint presentation:
 [Mosquito Insecticide Resistance Management copy.pdf](https://github.com/user-attachments/files/15795295/Mosquito.Insecticide.Resistance.Management.copy.pdf)
 
 ## Table of Contents
