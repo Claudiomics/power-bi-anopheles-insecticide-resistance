@@ -60,7 +60,7 @@ On the right hand side is a multi-row card displaying the top 5 mosquito species
 For example, if you select confirmed resistance on the map, you can see that 58% of _Anopholese_ gambiae mosquitos make up that resistance, followed by _Anopheles_ arabiensis at 18%. 
 If you select by location like the country Afghanistan, the most resistant species is _Anopheles_ stephensi. You can see how this also changes the mechanisms of resistance graphs.
 
-
+c
 
 
 ### Dashboard
