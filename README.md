@@ -1,4 +1,4 @@
-![image](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/aa27bb57-2e25-4ce3-bd69-47349a0bfd67)![image](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/02cc32ba-b3b2-4fdc-9fee-13e20c928d36)# power-bi-anopheles-insecticide-resistance
+# Power BI: Managing _Aopheles_ Global Insecticide Resistance
 
 This project showcases my skills in Power BI, which were developed by Peregrine's training programme. Since I'm on a mac, I needed to use a MS Azure VM to run PowerBI on. Here is the link to the .pdf file of my powerpoint presentation:
 
@@ -36,15 +36,35 @@ Developing a new class of insecticides takes 12-15 years and costs over $250 mil
 
 ### Methodology
 
+I got my dataset from the World Health Organization, and I selected four main datasets for my report to provide a comprehensive overview of the significant global issue of mosquito insecticide resistance. The first two datasets provide details on resistance status and the other two explore the mechanisms underlying resistance, shedding light on the genetic and biochemical factors involved.
+
 <img width="1037" alt="Screenshot 2024-06-12 at 00 07 10" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/aeeaffce-55d2-4b91-a720-e12ca0674d06">
+
+Since I am working with MacOS, I used a Microsoft Azure Virtual Machine to run Power BI on. I downloaded the data onto the machine and loaded it into Power BI. I then created a data dictionary detailing the column names, descriptions and data types, to improve overall data understanding. 
+
 <img width="1036" alt="Screenshot 2024-06-12 at 00 07 40" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/7f3b1588-bb0d-4ba2-a37d-c63eca8f5984">
 <img width="1038" alt="Screenshot 2024-06-12 at 00 08 05" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/25587d42-f223-436a-b265-aea092ddff44">
+
+To scrub the data in Power BI, I opened power query editor and removed unneeded columns like country codes, area codes and citations. I also checked for missing values and filtered those out. I needed to replace a lot of values for the ‘mosquito_number’ columns which included estimates of mosquitos by study. I replaced each with the average and deleted any rows where the study had less than 15 mosquitos.
+
 <img width="1039" alt="Screenshot 2024-06-12 at 00 08 20" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/3d1f4f40-931a-4ac0-a360-fb3efb3a3f37">
+
+Another example of error handling was finding a wrong data point on an exploratory scatter plot. I used a location calculator on google to correct this data point in power query.
+
 <img width="1039" alt="Screenshot 2024-06-12 at 00 08 37" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/a53f9cd6-a2cf-4366-852c-02343780bc2c">
+
+Comparing average, maximum and minimum values provides a general overview of the data. I realized that the intensity_concentration bioassay table was quite limited when compared to the discriminating concentration bioassay, in terms of unique country and species count, and the period of time data was gathered over. It also had 30% N/A for resistance intensity so instead of discarding this data, I appended certain rows from it onto the discriminating_concentration table. First, I filtered the insecticide concentration column to match the strength in the discriminating table. I then made sure all columns had the same name and data type and then appended them, before deleting any duplicates. This added around 700 more studies onto my first table, effectively enriching my data set. I then created relationships between year and mosquito species from the assays to the main resistance table. 
+
 <img width="1038" alt="Screenshot 2024-06-12 at 00 08 53" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/a8d751e9-51d3-410f-89a0-9e4039d99eba">
 <img width="1038" alt="Screenshot 2024-06-12 at 00 09 10" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/c00279ac-ae71-4f26-82dc-9791eaba652a">
 <img width="1039" alt="Screenshot 2024-06-12 at 00 09 25" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/4aa0a829-b3a5-4022-8b11-ee273c8a2cd7">
-<img width="1035" alt="Screenshot 2024-06-12 at 00 09 46" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/76000af7-d4c1-4cf6-84a1-9e347f783c24">
+
+I also used Quick Measures to create a graph that was clearer to understand at a glance.
+
+<img width="1035" alt="Screenshot 2024-06-12 at 00 09 46" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/76000af7-d4c1-4cf6-84a1-9e347f783c24"> 
+
+Here is the finalised dashboard.
+
 <img width="1036" alt="Screenshot 2024-06-12 at 00 10 06" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/7ae61d27-7ce2-4206-bdae-c025dbb12cbf">
 
 ### Dashboard
