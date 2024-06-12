@@ -1,4 +1,4 @@
-# power-bi-anopheles-insecticide-resistance
+![image](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/aa27bb57-2e25-4ce3-bd69-47349a0bfd67)![image](https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/02cc32ba-b3b2-4fdc-9fee-13e20c928d36)# power-bi-anopheles-insecticide-resistance
 
 This project showcases my skills in Power BI, which were developed by Peregrine's training programme. Since I'm on a mac, I needed to use a MS Azure VM to run PowerBI on. Here is the link to the .pdf file of my powerpoint presentation:
 
@@ -55,16 +55,37 @@ On the left-hand side, is a filled map showing an overview of the distribution o
 
 Set to 2007, it's clear resistance has spread rapidly, highlighting the urgent need for alternative vector control. The graph underneath shows the total number of registered cases over time to emphasize this point.
 
+<img width="961" alt="Screenshot 2024-06-12 at 07 41 32" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/e8f83e41-29af-4535-97c8-3160c312badc">
+
+<img width="404" alt="Screenshot 2024-06-12 at 07 41 53" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/156aafbe-c688-45e0-a501-375ff73b9258">
+
 On the right hand side is a multi-row card displaying the top 5 mosquito species from whatever filters are on the page.
 
 For example, if you select confirmed resistance on the map, you can see that 58% of _Anopholese_ gambiae mosquitos make up that resistance, followed by _Anopheles_ arabiensis at 18%. 
 If you select by location like the country Afghanistan, the most resistant species is _Anopheles_ stephensi. You can see how this also changes the mechanisms of resistance graphs.
 
-c
+<img width="961" alt="Screenshot 2024-06-12 at 07 41 18" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/35e842c8-ebaa-4a40-b069-9a5fafdf797c">
 
+The pie chart displays the percentage of insecticides that mosquitos are resistant to, by class and type. The class of insecticides which most mosquitos are resistant to is pyrethroids. This is a major problem since they are the only insecticide deemed safe enough for use in treated nets, since they need to be non-toxic enough for babies to put in their mouths. 
 
-### Dashboard
+<img width="524" alt="Screenshot 2024-06-12 at 07 44 41" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/68dcb456-76fc-45c9-92ed-addb15ce2fcb">
+
+And finally, mechanisms of resistance. Insecticides work by targeting the nervous system of mosquitos, by binding to specific sites and causing paralysis. Mutations in these target sites prevent insecticides from binding, leading to resistance. Since they survive, these mutated genes are passed to the next generation. If we wind back to 2003, there was only the kdr mutation leading to pyrethroid and organochlorine resistance. Since then, mutations in the ace1R gene have become more prevalent. 
+
+The second mechanism of resistance is how quickly insecticides are metabolized. The upregulation of cytochrome P450, esterases and GSTs all lead to resistance to different classes of insecticides as detailed in the ‘mechanism mapping’ table.
+Selecting by species shows the difference in mechanism type and provides an insight into which insecticides would be most effective on that species by area.
+
+<img width="958" alt="Screenshot 2024-06-12 at 07 43 12" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/b7336c8b-888d-4cda-a96b-d0d018a5fc09">
 
 ### Conclusion and Future Improvements
+
+To conclude, this dashboard can be used to design localized resistance profiles and unique plans of action to tackle the spread of resistance. While new insecticides are being developed, we need to make what we currently have as effective as possible to limit the spread of resistance and re-emergence of Malaria, especially in Africa where resistance has spread rapidly.
+
+One questions, I was unfortunately unable to answer was predicting which geographic areas are likely to see an increase in resistance. In future projects, I would like to incorporate a regression analysis of the data using python.
+
+I would have also liked to have a second section to the dashboard elaborating on the molecular mechanisms and be able to propose combinations such as two insecticides, or insecticides paired with a synergist to help tackle this global problem.
+
+<img width="960" alt="Screenshot 2024-06-12 at 07 44 10" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/1b87f874-e8f7-47ec-b2c9-26fb9468449d">
+
 
 
