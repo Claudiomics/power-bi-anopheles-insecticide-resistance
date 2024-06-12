@@ -49,6 +49,22 @@ Developing a new class of insecticides takes 12-15 years and costs over $250 mil
 
 ### Dashboard
 
+On the left-hand side, is a filled map showing an overview of the distribution of resistance across the globe. As this data set contains local information as well as country name, we can drill down in this hierarchy to display resistance by region, which is important when designing localized plans to tackle spread. You can also use the legend to filter by resistance status: confirmed, possible and susceptible meaning the mosquitos are still sensitive to the insecticide. Underneath is a slider to display how resistance changes over time. 
+
+<img width="1037" alt="Screenshot 2024-06-12 at 07 32 05" src="https://github.com/Claudiomics/power-bi-anopheles-insecticide-resistance/assets/149532217/98e10f86-66f0-40be-a2b5-e94e6f5d5289">
+
+Set to 2007, it's clear resistance has spread rapidly, highlighting the urgent need for alternative vector control. The graph underneath shows the total number of registered cases over time to emphasize this point.
+
+On the right hand side is a multi-row card displaying the top 5 mosquito species from whatever filters are on the page.
+
+For example, if you select confirmed resistance on the map, you can see that 58% of _Anopholese_ gambiae mosquitos make up that resistance, followed by _Anopheles_ arabiensis at 18%. 
+If you select by location like the country Afghanistan, the most resistant species is _Anopheles_ stephensi. You can see how this also changes the mechanisms of resistance graphs.
+
+
+
+
+### Dashboard
+
 ### Conclusion and Future Improvements
 
 
