@@ -1,4 +1,4 @@
-# Power BI: Managing _Aopheles_ Global Insecticide Resistance
+# Power BI: Managing Global _Aopheles_ Insecticide Resistance
 
 This project showcases my skills in Power BI, which were developed by Peregrine's training programme. Since I'm on a mac, I needed to use a MS Azure VM to run PowerBI on. Here is the link to the .pdf file of my powerpoint presentation:
 
